@@ -13,10 +13,12 @@ I am passionate about web development and enjoy building interactive application
 - A browser-based application that allows users to borrow books.
 - Includes a due date tracker and calculates fines for late returns.
 - It showcases basic CRUD operations and time-based logic using JavaScript.
+- GitHub: (https://sim-99.github.io/Book-Library1/)
 
 ### 3. Drum Challenge (HTML, CSS, JavaScript)
 - An interactive drum kit where users press keys to trigger different drum sounds.
 - Includes visual feedback using animations and sound integration.
+- GitHub: (https://sim-99.github.io/Drum-challenge1/)
 
 ## Reflection (STAR Technique)
 
