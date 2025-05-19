@@ -55,7 +55,7 @@ I am passionate about *web development, with a particular interest in front-end 
 Each section of the portfolio is available as a Markdown file in this repository. You can navigate using the file list above or view the content directly below:
 
 - [Career Counselling](Career-counselling.md)
-- [Skills and Interests](Skill-interests.md)
+- [Skills and Interests](Skills-interests.md)
 - [Personality Assessment](Personality-assessment.md)
 - [CV](Cv.md)
 - [CV Submission](Cv-submission.md)
