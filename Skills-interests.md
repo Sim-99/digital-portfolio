@@ -46,6 +46,7 @@ This project was created using Figma for the SVG design and CSS animations for t
 - Create custom vector graphics
 - Apply smooth CSS animations
 - Build creative, animated visuals suitable for landing pages or themed UI elements
+  
 *Live Demo*: (https://sim-99.github.io/City-night-scene-animation/)
 ---
 ![City Night Scene](./media/city-night-scene.png)
