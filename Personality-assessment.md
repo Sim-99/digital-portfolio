@@ -1,13 +1,34 @@
 # Personality Assessment
 
 ## Evidence
-Based on my work style, interests, and self-assessment, I identify with traits often associated with problem-solvers and creatives in the ICT field. I enjoy building things from scratch, solving logic-based challenges, and designing user-friendly interfaces. My passion for web development, attention to detail, and self-motivation align with personality traits common in roles like front-end developer or UI/UX designer.
 
-I am naturally focused, creative, and persistent when solving problems—especially in programming. I also enjoy working independently, yet I value clear structure and feedback, which help me improve.
+As part of the project presentation work readiness module, I completed an online personality assessment. The test results revealed that I possess traits commonly associated with focused, creative, and analytical individuals  qualities that align well with careers in ICT, especially front-end development.
+
+My results suggest that I:
+- Prefer independent, structured work environments
+- Excel in tasks that require attention to detail and logic
+- Enjoy solving complex problems through creative approaches
+- Value meaningful, impactful work
+- Have a strong preference for design and building user-friendly systems
+
+Here is a screenshot of my personality assessment result:
+
+![Personality Assessment Results](./media/personality-results.png)
+
+These traits are reflected in the way I approach my projects — such as planning and building a pizza eCommerce website with editable cart functionality, or designing a library system with logic for late return fines.
+
+---
 
 ## Reflection (STAR Technique)
 
-*S – Situation*: While exploring my career direction in ICT, I wanted to understand how my personality could influence the roles I’d thrive in.  
-*T – Task*: Assess my personality traits based on my work habits and learning experiences.  
-*A – Action*: I reflected on how I approach projects like the library system, drum challenge, and pizza website. I noticed I am most productive when solving real problems, building clean interfaces, and improving user interaction.  
-*R – Result*: I discovered that my strengths include focus, creativity, and technical curiosity—traits that suit front-end development, UI/UX design, and project-based work. I plan to further develop these traits while building more real-world applications.
+*S – Situation*  
+As part of the Work Readiness training programme, I was tasked with completing a personality assessment to gain insight into how my personality aligns with my future career in ICT.
+
+*T – Task*  
+I needed to analyze the results of the personality assessment and reflect on how my characteristics influence my work style, learning approach, and career choices.
+
+*A – Action*  
+After completing the online test, I reviewed my personality traits and thought about how they matched my experiences in various projects. I noticed that I enjoy working on creative challenges, such as designing intuitive interfaces and solving coding problems. I also realized that I work best when I have a clear plan and independence to execute tasks.
+
+*R – Result*  
+The assessment confirmed that I am logical, detail-oriented, and creative — all strengths that support my goal of becoming a professional front-end developer. It also helped me realize the importance of improving my teamwork and communication skills for collaborative environments. I now feel more confident in pursuing roles that fit my personality and skills.
