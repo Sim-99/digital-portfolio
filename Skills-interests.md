@@ -2,28 +2,26 @@
 
 ## Evidence
 
-I have a strong interest in *web development*, especially in front-end technologies. I enjoy building real-world applications that are interactive, visually appealing, and functional. Below are the skills I’ve developed and some of the projects I’ve completed:
+I have a strong interest in web development, especially in front-end technologies. I enjoy building real-world applications that are interactive, visually appealing, and functional. Below are the skills I’ve developed and some of the projects I’ve completed:
 
 ### Technical Skills
 
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-- ![UI/UX](https://img.shields.io/badge/-UI%2FUX-25A18E?style=flat-square&logo=figma&logoColor=white)
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+ ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+ ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+ ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+ ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+ ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+ ![UI/UX](https://img.shields.io/badge/-UI%2FUX-25A18E?style=flat-square&logo=figma&logoColor=white)
+ ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ### Projects
 
-#### 1. *Pizza E-commerce Website* (React.js)
+#### 1. Pizza E-commerce Website (React.js)
 An interactive pizza ordering app where users can:
 - View pizza sizes
 - Edit pizza items (e.g., size, toppings)
 - Add and remove items from the cart  
-*GitHub Repo*: [https://github.com/yourusername/pizza-shop](https://github.com/yourusername/pizza-shop)  
-*Live Demo*: [https://yourusername.github.io/pizza-shop](https://yourusername.github.io/pizza-shop)
 
 ---
 
