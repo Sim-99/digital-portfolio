@@ -40,6 +40,15 @@ An interactive virtual drum set that:
 *Live Demo*: (https://sim-99.github.io/Drum-challenge1/)
 
 ---
+#### 4. *City Night Scene Animation* (SVG + CSS)
+
+This project was created using Figma for the SVG design and CSS animations for the glowing lights and moving vehicles. It demonstrates my ability to:
+- Create custom vector graphics
+- Apply smooth CSS animations
+- Build creative, animated visuals suitable for landing pages or themed UI elements
+*Live Demo*: (https://sim-99.github.io/City-night-scene-animation/)
+---
+![City Night Scene](./media/city-night-scene.png)
 
 #### Screenshot of My Skills Assessment
 Here is the screenshot of my completed skills and interests task:
