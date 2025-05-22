@@ -44,7 +44,7 @@ An interactive virtual drum set that:
 #### Screenshot of My Skills Assessment
 Here is the screenshot of my completed skills and interests task:
 
-![Skills Screenshot](./media/skills-interests.png)
+![Skills Screenshot](./media/skills and interest-results.png)
 
 ---
 
