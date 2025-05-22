@@ -16,7 +16,7 @@ This is a screen grab of the findings from my personality test:
 ![Personality Assessment Results](./media/personality-results.png)
 
 My approach to projects, such as designing a library system with logic for late return fines or planning and constructing an eCommerce website for pizza with editable cart capabilities, reflects these qualities.
----
+
 
 ## Reflection (STAR Technique)
 
