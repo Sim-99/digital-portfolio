@@ -1,28 +1,63 @@
 # Skills and Interests
 
 ## Evidence
-I am passionate about web development and enjoy building interactive applications. Below are some of the projects I’ve developed that demonstrate my skills and interests:
 
-### 1. E-commerce Pizza Website (React.js)
-- Built using React and styled with CSS modules.
-- Users can view different pizza sizes, edit pizza details (like toppings or size), add pizzas to the cart, and remove them.
-- This project helped me understand component structure, props, and state management in React.
+I have a strong interest in *web development*, especially in front-end technologies. I enjoy building real-world applications that are interactive, visually appealing, and functional. Below are the skills I’ve developed and some of the projects I’ve completed:
 
-### 2. Library System (HTML, CSS, JavaScript)
-- A project using HTML, CSS, and JavaScript that allows users to add, view, and remove books. 
-- A browser-based application that allows users to borrow books.
-- Includes a due date tracker and calculates fines for late returns.
-- It showcases basic CRUD operations and time-based logic using JavaScript.
-- GitHub: (https://sim-99.github.io/Book-Library1/)
+### Technical Skills
+- HTML & CSS
+- JavaScript
+- React.js
+- Git & GitHub
+- UI/UX Principles
+- Basic MongoDB
 
-### 3. Drum Challenge (HTML, CSS, JavaScript)
-- An interactive drum kit where users press keys to trigger different drum sounds.
-- Includes visual feedback using animations and sound integration.
-- GitHub: (https://sim-99.github.io/Drum-challenge1/)
+### Projects
+
+#### 1. *Pizza E-commerce Website* (React.js)
+An interactive pizza ordering app where users can:
+- View pizza sizes
+- Edit pizza items (e.g., size, toppings)
+- Add and remove items from the cart  
+*GitHub Repo*: [https://github.com/yourusername/pizza-shop](https://github.com/yourusername/pizza-shop)  
+*Live Demo*: [https://yourusername.github.io/pizza-shop](https://yourusername.github.io/pizza-shop)
+
+---
+
+#### 2. *Library System* (HTML, CSS, JavaScript)
+This project allows users to:
+- Borrow books
+- Track due dates
+- Automatically calculate fines for late returns  
+*Live Demo*: (https://sim-99.github.io/Book-Library1/)
+
+---
+
+#### 3. *Drum Challenge* (HTML, CSS, JavaScript)
+An interactive virtual drum set that:
+- Plays sound when users press certain keys
+- Shows visual feedback with CSS animations  
+*Live Demo*: (https://sim-99.github.io/Drum-challenge1/)
+
+---
+
+#### Screenshot of My Skills Assessment
+Here is the screenshot of my completed skills and interests task:
+
+![Skills Screenshot](./media/skills-interests.png)
+
+---
 
 ## Reflection (STAR Technique)
 
-*S – Situation*: I wanted to apply my web development skills through practical projects.  
-*T – Task*: Create interactive applications that simulate real-world functionality like e-commerce and library management.  
-*A – Action*: I used HTML, CSS, JavaScript, and React to build projects. I focused on responsiveness, dynamic functionality, and user experience.  
-*R – Result*: I became confident in front-end development, especially in React and JavaScript logic, and now have a portfolio of complete web apps.
+*S – Situation*  
+As part of the PRP370 module, I needed to explore and showcase my technical skills and interests to help guide my career planning.
+
+*T – Task*  
+Demonstrate what I’ve learned practically and reflect on how these skills prepare me for a role in the tech industry.
+
+*A – Action*  
+I completed various projects that show my understanding of web development, including using HTML, CSS, JavaScript, and React. I also evaluated my own skillset through self-assessments and by analyzing the technologies I use most often.
+
+*R – Result*  
+These experiences have confirmed that I enjoy solving design and logic problems, especially in front-end development. I’m confident that my skills in building real-world web apps prepare me for internships and junior web development roles.
