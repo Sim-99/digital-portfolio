@@ -1,6 +1,6 @@
 # Create CV
 
-As part of the *Work Readiness Programme* (PRP370), I was required to create a complete and professional CV that reflects my academic background, experience, and technical capabilities. Below is my CV content in Markdown format.
+As part of the  Project Presentation work readiness module,, I was required to create a complete and professional CV that reflects my academic background, experience, and technical capabilities. Below is my CV content in Markdown format.
 
 ---
 
@@ -10,7 +10,7 @@ Name: Simthembile  Capa
 Email: capasimthembile@gmail.com  
 Phone: 0783695262  
 GitHub: [https://github.com/Sim-99](https://github.com/Sim-99)  
-LinkedIn: in/simthembile-capa-0171461a7 (optional)
+LinkedIn: in/simthembile-capa-0171461a7 
 
 ---
 
