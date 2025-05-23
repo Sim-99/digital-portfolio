@@ -1,27 +1,27 @@
-# 📝 Curriculum Vitae (CV)
+# Create CV
 
 As part of the *Work Readiness Programme* (PRP370), I was required to create a complete and professional CV that reflects my academic background, experience, and technical capabilities. Below is my CV content in Markdown format.
 
 ---
 
-## 📌 CV Details
+## CV Details
 
-*Name:* Simthembile  
-*Email:* simthembile@example.com  
-*Phone:* 012-345-6789  
-*GitHub:* [https://github.com/yourusername](https://github.com/yourusername)  
+*Name:* Simthembile  Capa
+*Email:* capasimthembile@gmail.com  
+*Phone:* 0783695262  
+*GitHub:* [https://github.com/Sim-99](https://github.com/Sim-99)  
 *LinkedIn:* [Your LinkedIn Link] (optional)
 
 ---
 
-### 🎓 Education
+###  Education
 
 *Diploma in Information and Communication Technology*  
 Cape Peninsula University of Technology (Expected: 2025)
 
 ---
 
-### 💼 Work Experience
+###  Work Experience
 
 *Educator Assistant*  
 Department of Basic Education | Nov 2020 – Mar 2021  
@@ -31,16 +31,16 @@ Department of Basic Education | Nov 2020 – Mar 2021
 
 ---
 
-### 🛠️ Projects
+###  Projects
 
-- *Pizza E-commerce Website* – Built in React with dynamic cart features and product customization  
-- *Library System* – JavaScript-based logic for borrowing books and calculating late return fines  
-- *Drum Challenge* – A musical interface using key press events and CSS animations  
-- *City Night Scene Animation* – Designed in Figma and animated using CSS transitions
+- Pizza E-commerce Website – Built in React with dynamic cart features and product customization  
+- Library System – JavaScript-based logic for borrowing books and calculating late return fines  
+- Drum Challenge – A musical interface using key press events and CSS animations  
+- City Night Scene Animation – Designed in Figma and animated using CSS transitions
 
 ---
 
-### 🧰 Technical Skills
+### Technical Skills
 
 - HTML, CSS, JavaScript  
 - React.js  
@@ -50,15 +50,15 @@ Department of Basic Education | Nov 2020 – Mar 2021
 
 ---
 
-## 🖼️ Work Readiness Task: CV Creation
+##  Work Readiness Task: CV Creation
 
 As evidence, below is a screenshot from the Work Readiness CV development task confirming that I participated and completed the activity:
 
-![CV Creation Task Screenshot](./media/create cv-results.png)
+![CV Creation Task Screenshot](./media/create-cv-results.png)
 
 ---
 
-## 🔄 Reflection – STAR Technique
+##  Reflection – STAR Technique
 
 *S – Situation*  
 In the Work Readiness programme, we were instructed to create a professional CV that could be submitted for job or internship applications.
