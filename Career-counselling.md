@@ -1,11 +1,31 @@
 # Career Counselling
 
 ## Evidence
-I participated in a career counselling session offered through the university. The session involved completing self-assessment questionnaires and discussing possible ICT career paths with a counsellor. I received feedback on my communication, analytical, and design skills.
+
+As part of the Work Readiness module, I completed an online career counselling assessment that helped me identify my top interest areas and suggested career paths in the ICT field. The results indicated that I have strong traits in the following areas:
+
+- *Artistic* – I enjoy creativity, design, and expressive work, especially in front-end development.
+- *Investigative* – I like solving problems and working through logic-based challenges.
+- *Realistic* – I’m hands-on and enjoy building things that work efficiently.
+
+These traits are reflected in my passion for web development, UI/UX design, and the ability to create solutions like the pizza shop app and animated SVG scenes.
+
+Here is a screenshot of my career interest profile result:
+
+![Career Counselling Result](./media/career-counselling-results.png)
+
+---
 
 ## Reflection (STAR Technique)
 
-*S – Situation*: I was uncertain about which career path within ICT would best suit my personality and skills.  
-*T – Task*: Gain clarity on potential roles that align with my interests in web development and problem-solving.  
-*A – Action*: I attended a one-on-one career counselling session and completed personality and interest assessments.  
-*R – Result*: I realized that careers in front-end development and UI/UX design align closely with my skills and interests. This has motivated me to deepen my skills in React and JavaScript.
+*S – Situation*  
+As part of my professional development, I needed guidance on what ICT career paths best matched my strengths and preferences.
+
+*T – Task*  
+I was required to complete a career counselling exercise to better understand where I would thrive professionally.
+
+*A – Action*  
+I completed the online assessment, reviewed the feedback, and reflected on how the results aligned with my experiences in front-end and creative development work.
+
+*R – Result*  
+The assessment confirmed my passion for development and creative problem-solving. I feel confident pursuing roles in front-end engineering, UI/UX design, or interactive web applications, which match both my skills and interests.
