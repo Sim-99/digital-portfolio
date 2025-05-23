@@ -58,7 +58,7 @@ Each section of the portfolio is available as a Markdown file in this repository
 - [Skills and Interests](Skills-interests.md)
 - [Personality Assessment](Personality-assessment.md)
 - [Create-CV](Create-CV.md)
-- [CV Submission](Cv-Submission.md)
+- [CV Submission](CV-Submission.md)
 
 ---
 
