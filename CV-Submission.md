@@ -1,4 +1,4 @@
-# CV Submission
+# Cv Submission
 
 As part of the Work Readiness Programme (PRP370), I was required to submit my professional CV through the university's Blackboard platform. This activity helped simulate real-world job application processes and emphasized the importance of submitting complete, polished documents on time.
 
