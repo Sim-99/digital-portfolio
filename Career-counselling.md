@@ -28,4 +28,4 @@ I was required to complete a career counselling exercise to better understand wh
 I completed the online assessment, reviewed the feedback, and reflected on how the results aligned with my experiences in front-end and creative development work.
 
 *R – Result*  
-The assessment confirmed my passion for development and creative problem-solving. I feel confident pursuing roles in front-end engineering, UI/UX design, or interactive web applications, which match both my skills and interests.
+The assessment confirmed my passion for development and creative problem solving. I feel confident pursuing roles in front-end engineering, UI/UX design, or interactive web applications, which match both my skills and interests.
